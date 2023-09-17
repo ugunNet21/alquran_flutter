@@ -1,11 +1,11 @@
 // https://api.quran.gading.dev/surah/1
 // get detail per surah dalam al-qur'an
 
-import 'dart:convert';
+// import 'dart:convert';
 
-DetailSurah detailSurahFromJson(String str) => DetailSurah.fromJson(json.decode(str));
+// DetailSurah detailSurahFromJson(String str) => DetailSurah.fromJson(json.decode(str));
 
-String detailSurahToJson(DetailSurah data) => json.encode(data.toJson());
+// String detailSurahToJson(DetailSurah data) => json.encode(data.toJson());
 
 class DetailSurah {
     DetailSurah({

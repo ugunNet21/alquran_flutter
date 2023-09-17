@@ -2,6 +2,7 @@ import 'package:alquran/modules/home/views/home_view.dart';
 import 'package:flutter/material.dart';
 import 'package:lottie/lottie.dart';
 
+
 class IntroductionView extends StatefulWidget {
   const IntroductionView({super.key});
 
